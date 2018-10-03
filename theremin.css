@@ -1,0 +1,13 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+#container{
+    height: 90%;
+    margin: 3%;
+    background-color: chocolate;
+    border-bottom-style: outset;
+    border-left-style: inset;
+    border-color: grey;
+}
