@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: auto auto;
+
+    height: 100%;
+    margin: 0;
+}
+
+
+#linksOben {
+    background-color: aqua;
+}
+
+#rechtOben {
+    background-color: rebeccapurple;
+}
+
+#linksUnten {
+    background-color: chocolate;
+}
+
+#rechtsUnten {
+    background-color:darkkhaki;
+}
